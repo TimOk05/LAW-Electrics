@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://timok05.github.io/LAW-Electrics/sitemap.xml
+

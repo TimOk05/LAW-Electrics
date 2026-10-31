@@ -1,0 +1,16 @@
+{
+  "name": "law-electrics-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo website for LAW Electrics in Greater Manchester",
+  "scripts": {
+    "dev": "http-server . -p 4178 -c-1",
+    "test": "playwright test",
+    "test:headed": "playwright test --headed"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "http-server": "^14.1.1"
+  }
+}
+
